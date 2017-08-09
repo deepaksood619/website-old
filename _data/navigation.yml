@@ -9,6 +9,6 @@ main:
 #  - title: "RESUME"
 #    url: /resume/
   - title: "BLOG"
-    url: /_pages/blog/
+    url: /blog/
 #  - title: "CONTACT"
 #    url: /contact/
