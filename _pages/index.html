@@ -1,0 +1,37 @@
+---
+title: Deepak Kumar Sood
+permalink: /
+layout: splash
+header:
+  overlay_color: "#000"
+  overlay_image: /assets/images/home.jpg
+  overlay_filter: 0.6
+excerpt: "Coder / Researcher / Tech-Evangelist"
+
+intro: 
+  - title: "My Passion as a Coder"
+  - excerpt: "Today i am gonna write a piece of code that will solve a problem and will affect millions of life, is what gets me started for the day."
+
+recent_blog:
+  - title: "My recent blog posts"
+
+recent_portfolio:
+  - title: "My recent projects"
+---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row id="recent_blog" type="center" %}
+<div class="grid_wrapper">
+  {% for post in site.posts limit:4 %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
+
+{% include feature_row id="recent_portfolio" type="center" %}
+
+<div class="grid_wrapper">
+  {% for post in site.portfolio limit:4 %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>

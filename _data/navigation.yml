@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "HOME"
+    url: /
+  - title: "PORTFOLIO"
+    url: /portfolio/
+#  - title: "ABOUT"
+#    url: /about/
+#  - title: "RESUME"
+#    url: /resume/
+  - title: "BLOG"
+    url: /_pages/blog/
+#  - title: "CONTACT"
+#    url: /contact/
