@@ -1,6 +1,6 @@
 ---
 title: Dig a little deeper
-permalink: resume.html
+permalink: /resume/
 layout: splash
 header:
   overlay_color: "#000"
