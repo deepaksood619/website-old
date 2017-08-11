@@ -50,7 +50,7 @@ gallery:
 ## Some things about me
 I love learning new things, therefore I had worked on large set of fields. I love creating new things and find solutions to real life problems. I am passionate to solve problems using novel ideas and iterate quickly on my ideas to optimize it for scalability.
 
-I also improving myself everyday, optimizing my work flow in every step of my work. I like things clean and organized. And I am fun to be with. :D
+I also improve myself everyday, optimizing my work flow in every step of my work. I like things clean and organized. And I am fun to be with. :D
 
 ## Places I Code
 
