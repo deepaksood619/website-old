@@ -13,7 +13,7 @@ excerpt: "Find out what I've accomplished over the years"
 
 ## Publications
 
-Deepika Yadav, Pushpendra Singh, Kyle Montague, Vijay Kumar, Deepak Sood, Madeline Balaam, Drishti Sharma, Mona Duggal, Tom Bartindale, Delvin Varghese, and Patrick Olivier. 2017. Sangoshthi: Empowering Community Health Workers through Peer Learning in Rural India. In Proceedings of the 26th International Conference on World Wide Web (WWW '17).
+Deepika Yadav, Pushpendra Singh, Kyle Montague, Vijay Kumar, Deepak Sood, Madeline Balaam, Drishti Sharma, Mona Duggal, Tom Bartindale, Delvin Varghese, and Patrick Olivier. 2017. **Sangoshthi: Empowering Community Health Workers through Peer Learning in Rural India.** In Proceedings of the 26th International Conference on World Wide Web (WWW '17).
 
 Publication date - Apr 7, 2017
 
