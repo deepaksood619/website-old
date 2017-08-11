@@ -10,5 +10,5 @@ main:
     url: /resume/
   - title: "BLOG"
     url: /blog/
-#  - title: "CONTACT"
-#    url: /contact/
+  - title: "CONTACT"
+    url: /contact/
