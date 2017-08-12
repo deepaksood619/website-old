@@ -5,7 +5,6 @@ excerpt: "Using Jekyll and Github Pages I created my personal website from scrat
 
 header:
   teaser: /assets/images/my-personal-website-th.jpg
-  image: /assets/images/my-personal-website.jpg
 
 sidebar:
   - title: "Technologies"
@@ -16,3 +15,11 @@ sidebar:
   - title: "Project Timeline"
     text: "Aug'17 - Present"
 ---
+
+This is my personal website built using latest technologies -
+ * Jekyll
+ * Github Pages
+ * Markdown
+ * SEO like Google Analytics
+ * Contact Forms - FormSpree.io
+ * Theme - Minimal Mistakes
