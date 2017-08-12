@@ -11,7 +11,8 @@ author_profile: false
 ---
 
 <div class="grid__wrapper">
-  {% for post in site.portfolio %}
+  {% assign items = site.portfolio | sort: 'date' | reverse %}
+  {% for post in items %}
     {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>
