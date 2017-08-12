@@ -39,3 +39,10 @@ So to be not lost in the wild, Search Engine Optimization is used which particul
   	google:
     	tracking_id: "UA-1234567-8"
     ```
+
+Google Analytics is done. :D
+
+Next step is to verify your site property ownership-
+1. The recommended method doesn't work.
+2. Use the meta tag verification in alternate methods in google webmaster tools.
+3. Add a custom variable in `config.yml` and then add it to `_layouts/default.html` as a meta tag. This will verify your ownership to the site. Reference - [Link](https://github.com/jekyll/jekyll/issues/3514)

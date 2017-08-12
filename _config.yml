@@ -53,6 +53,9 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
+# Google Property Ownership
+google_verify : "s6lyJiKxh9TnQ4T6sibluSPuZohXrt67gPpVJwScvZs"
+
 # Social Sharing
 twitter:
   username               : "deepaksood619"
