@@ -1,7 +1,7 @@
 ---
 title: "Rudimentary File System of Unix Environment"
 excerpt: "Implemented the Unix file system environment in a client-server communication. Designed ACL to store user permissions."
-date: 01-06-2016
+date: 02-06-2016
 header:
   image: /assets/images/portfolio-placeholder.jpg
   teaser: /assets/images/portfolio-placeholder-th.jpg
