@@ -42,7 +42,14 @@ So to be not lost in the wild, Search Engine Optimization is used which particul
 
 Google Analytics is done. :D
 
+## Verifying property
+
 Next step is to verify your site property ownership-
-1. The recommended method doesn't work.
-2. Use the meta tag verification in alternate methods in google webmaster tools.
+1. The recommended method does work, just download file put it in your github repository and you are good to go. (Don't put www as your top level domain in google property)
+2. Also the meta tag verification in alternate methods in google webmaster tools works.
 3. Add a custom variable in `config.yml` and then add it to `_layouts/default.html` as a meta tag. This will verify your ownership to the site. Reference - [Link](https://github.com/jekyll/jekyll/issues/3514)
+
+## Adding sitemap.xml
+1. Add your sitemap.xml to google webmaster dashboard for crawler to efficently crawl your website.
+2. BTW it will by default use your sitemap.xml for crawling and also robots.txt
+3. Take the Google Mobile Friendly test and upload the results.
