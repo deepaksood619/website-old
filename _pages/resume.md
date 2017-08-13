@@ -1,5 +1,5 @@
 ---
-title: Dig a little deeper
+title: Resume
 permalink: /resume/
 layout: splash
 header:

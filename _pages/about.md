@@ -1,5 +1,5 @@
 ---
-title: It's the Me part
+title: About me
 permalink: /about/
 layout: splash
 header:
