@@ -81,9 +81,9 @@ Create your app in facebook developer console. You will get app id for your acco
 
    2. Now get this field and add to your `comments.html` file inside _includes, add the following liquid
 
-    ```html
+```html
     <section class="fb-comments" data-href="{{ page.url | absolute_url }}" data-mobile="true" data-num-posts="{{ site.comments.facebook.num_posts | default: 5 }}" data-width="100%" data-colorscheme="{{ site.comments.facebook.colorscheme | default: 'light' }}" data-order-by="{{ site.comments.facebook.order_by | default: 'social' }}"></section>
-    ```
+```
 
 ### Reference -
  * [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/docs/configuration/)
