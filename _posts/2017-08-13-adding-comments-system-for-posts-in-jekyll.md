@@ -62,5 +62,26 @@ Also it will then push the comment to website repository and save it in `_data` 
 
 After using facebook comment system, I replaced my provider from staticman to facebook. Facebook comment system is far better than staticman for now. It is clean, fast and easy. Built in moderation system.
 
+## Adding App Id (optional)
+Create your app in facebook developer console. You will get app id for your account add that app id to `config.yml`
+
+## Giving sorting order for facebook comments
+  1. Add a new key value pair in `comments > facebook` by key as `order_by` and value as `reverse_time` or `time` (default is `social`). [Read here more on fb sorting](https://developers.facebook.com/docs/plugins/comments#sorting)
+
+  ```yaml
+  comments:
+    facebook:
+      appid : 
+      num_posts : 10
+      colorscheme: "light"
+      order_by : "reverse_time"
+   ```
+
+   2. Now get this field and add to your `comments.html` file inside _includes, add the following liquid
+
+    ```html
+    <section class="fb-comments" data-href="{{ page.url | absolute_url }}" data-mobile="true" data-num-posts="{{ site.comments.facebook.num_posts | default: 5 }}" data-width="100%" data-colorscheme="{{ site.comments.facebook.colorscheme | default: 'light' }}" data-order-by="{{ site.comments.facebook.order_by | default: 'social' }}"></section>
+    ```
+
 ### Reference -
  * [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/docs/configuration/)
