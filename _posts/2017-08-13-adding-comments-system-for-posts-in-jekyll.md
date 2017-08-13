@@ -58,6 +58,9 @@ Also it will then push the comment to website repository and save it in `_data` 
  Tip: Remember to give correct path for your comments storage.
 
 ## Steps to add facebook comments to jekyll-
+1. Change comments provider to `facebook` and you are done.
+
+After using facebook comment system, I replaced my provider from staticman to facebook. Facebook comment system is far better than staticman for now. It is clean, fast and easy. Built in moderation system.
 
 ### Reference -
  * [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/docs/configuration/)
