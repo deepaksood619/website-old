@@ -4,7 +4,9 @@ excerpt: "Adding comment system like facebook, disqus or staticman"
 
 header:
   teaser: /assets/images/blog/staticman-th.jpg
-  image: /assets/images/blog/staticman.jpg
+  overlay_image: /assets/images/blog/staticman.jpg
+  overlay_color: "#000"
+  overlay_filter: 0.6
 
 categories:
   - Technology

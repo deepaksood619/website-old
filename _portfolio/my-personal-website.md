@@ -1,6 +1,8 @@
 ---
 title: "My Personal Website"
+
 date: 10-08-2017
+
 excerpt: "Using Jekyll and Github Pages I created my personal website from scratch, Its an ongoing project and features will be added soon"
 
 header:

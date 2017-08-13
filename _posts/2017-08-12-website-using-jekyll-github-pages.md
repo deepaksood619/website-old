@@ -4,7 +4,9 @@ excerpt: "Just Works!"
 
 header:
   teaser: /assets/images/website-using-jekyll-github-pages-th.jpg
-  image: /assets/images/website-using-jekyll-github-pages.jpg
+  overlay_image: /assets/images/website-using-jekyll-github-pages.jpg
+  overlay_color: "#000"
+  overlay_filter: 0.7
 
 categories:
   - Technology

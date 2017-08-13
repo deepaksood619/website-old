@@ -1,10 +1,15 @@
 ---
 title: "Video Cut N Trim"
 excerpt: "An Android application with a simple user interface for ASHA workers, where they can create and edit stories using image, audio and video."
+
 date: 01-05-2017
+
 header:
-  image: /assets/images/video-cut-n-trim.jpg
   teaser: /assets/images/video-cut-n-trim-th.jpg
+  overlay_image: /assets/images/video-cut-n-trim.jpg
+  overlay_color: "#000"
+  overlay_filter: 0.6
+  
 sidebar:
   - title: "Role"
     image: /assets/images/bio-photo.jpg

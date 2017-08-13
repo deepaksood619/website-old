@@ -5,8 +5,10 @@ excerpt: "Used image processing toolbox of Matlab to find the license plate from
 date: 01-07-2015
 
 header:
-  image: /assets/images/portfolio-placeholder.jpg
   teaser: /assets/images/portfolio-placeholder-th.jpg
+  overlay_image: /assets/images/portfolio-placeholder.jpg
+  overlay_color: "#000"
+  overlay_filter: 0.6
 
 sidebar:
   - title: "Role"

@@ -1,10 +1,16 @@
 ---
 title: "Sangoshthi: Phase - 2"
+
 excerpt: "An extension to the project Sangoshthi, where new features like tutorials and notifications added to the application."
+
 date: 01-08-2017
+
 header:
-  image: /assets/images/sangoshthi-phase-2.jpg
+  overlay_image: /assets/images/sangoshthi-phase-2.jpg
   teaser: /assets/images/sangoshthi-phase-2-th.jpg
+  overlay_color: "#000"
+  overlay_filter: 0.6
+
 sidebar:
   - title: "Role"
     image: /assets/images/bio-photo.jpg
