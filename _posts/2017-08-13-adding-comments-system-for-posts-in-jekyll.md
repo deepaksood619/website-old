@@ -35,11 +35,29 @@ Also it will then push the comment to website repository and save it in `_data` 
    ```yaml
    comments:
      provider: "staticman"
-
+   staticman:
+     allowedFields          : ['name', 'email', 'url', 'message']
+     branch                 : # "master", "gh-pages"
+     commitMessage          : "New comment."
+     filename               : comment-{@timestamp}
+     format                 : "yml"
+     moderation             : false
+     path                   : "_data/comments/{options.slug}"
+     requiredFields         : ['name', 'email', 'message']
+     transforms:
+       email                : "md5"
+     generatedFields:
+       date:
+         type               : "date"
+         options:
+           format           : "iso8601"
    ```
  4. You can turn on or off moderation, if on then you have to accept the pull request, close the issue and then your comment will be posted, if off then comment will be posted directly.
 
- Enable comments in every post you want it enabled on by adding `comment: true` or add the default value in `_config.yml`
+ Tip : Enable comments in every post you want it enabled on by adding `comment: true` or add the default value in `_config.yml`
+ Tip: Remember to give correct path for your comments storage.
+
+## Steps to add facebook comments to jekyll-
 
 ### Reference -
  * [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/docs/configuration/)
