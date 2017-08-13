@@ -34,5 +34,7 @@ But in this you are not alone, faculties will always be there with you on your s
 
 Today in Internet age, all course materials are available to everyone, same content is available to a student of MIT or IIIT or any home studying student. So the only thing that differentiates you from others is how you consume that material filter out any jitters and mine the knowledge available from within. This is what IIITD teaches us, to **mine the knowledge within and use it in an efficient and scalable way**.
 
+This all teaches you how to study and then you can decide on your own what do you want to study. Computer Science is a vast field and highly changing field. What you had learnt one year back is already deprecated. So in computer science field learning is the most important thing that any college can give you, and this is what IIIT Delhi offers to its students.
+
 ## Social Life
 Apart from all this, social life is great. You will make an everlasting bond with your friends, collegues and faculties. There are lot of fun activities going all over the week with studies. There are lot of groups that will also teach you programming, designing and what not in fun ways.

@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en"
+locale                   : "en_IN"
 title                    : "Deepak Sood"
-title_separator          : "-"
+title_separator          : "|"
 name                     : "Deepak Sood"
-description              : "My Blogging Website"
+description              : "My Personal Website"
 url                      : "https://deepaksood619.github.io"
 baseurl                  : # "/index"
 repository               : "deepaksood619/deepaksood619.github.io"
