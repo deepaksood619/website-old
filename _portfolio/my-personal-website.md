@@ -25,3 +25,12 @@ This is my personal website built using latest technologies -
  * SEO like Google Analytics
  * Contact Forms - FormSpree.io
  * Theme - Minimal Mistakes
+
+### Languages Used -
+ * Markdown
+ * Liquid Templating Language
+ * HTML5
+ * SCSS / CSS3
+
+## Source Code
+[Personal Website using Jekyll](https://github.com/deepaksood619/deepaksood619.github.io "Source Code Github")

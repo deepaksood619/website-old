@@ -14,9 +14,7 @@ sidebar:
   - title: "Role"
     image: /assets/images/bio-photo.jpg
     image_alt: "logo"
-    text: "User Side Android Application"
-  - title: "Responsibilities"
-    text: "Add framework to the existing applications"
+    text: "Android Application Development"
   - title: "Project Timeline"
     text: "Nov'15 - Dec'15"
 ---

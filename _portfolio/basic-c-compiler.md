@@ -14,9 +14,7 @@ sidebar:
   - title: "Role"
     image: /assets/images/bio-photo.jpg
     image_alt: "logo"
-    text: "Create a basic compiler"
+    text: "Application Development"
   - title: "Project Timeline"
     text: "Sep'15 - Dec'15"
 ---
-
-

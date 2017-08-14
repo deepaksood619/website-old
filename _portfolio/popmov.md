@@ -14,9 +14,10 @@ sidebar:
   - title: "Role"
     image: /assets/images/bio-photo.jpg
     image_alt: "logo"
-    text: "User Side Android Application"
-  - title: "Responsibilities"
-    text: "Add framework to the existing applications"
+    text: "Android Application Development"
   - title: "Project Timeline"
     text: "Mar'16"
 ---
+
+## Source Code
+[PopMov Source Code](https://github.com/deepaksood619/PopMov "Github Source Code")

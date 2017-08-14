@@ -15,9 +15,10 @@ sidebar:
   - title: "Role"
     image: /assets/images/bio-photo.jpg
     image_alt: "logo"
-    text: "User Side Android Application"
-  - title: "Responsibilities"
-    text: "Add framework to the existing applications"
+    text: "Application Development"
   - title: "Project Timeline"
     text: "Jun'16"
 ---
+
+## Source Code
+[ConnectBook Source Code](https://github.com/deepak15013/OOPD_Project "Source Code Github")

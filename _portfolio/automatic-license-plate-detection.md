@@ -14,7 +14,7 @@ sidebar:
   - title: "Role"
     image: /assets/images/bio-photo.jpg
     image_alt: "logo"
-    text: "Training of network on dataset"
+    text: "Application Developement"
   - title: "Project Timeline"
     text: "Apr'15 - Jun'15"
 ---

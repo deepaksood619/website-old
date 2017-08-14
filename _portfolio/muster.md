@@ -14,9 +14,10 @@ sidebar:
   - title: "Role"
     image: /assets/images/bio-photo.jpg
     image_alt: "logo"
-    text: "User Side Android Application"
-  - title: "Responsibilities"
-    text: "Add framework to the existing applications"
+    text: "Android Application Development"
   - title: "Project Timeline"
     text: "Apr'16 - May'16"
 ---
+
+## Source Code
+[Muster: A Chat Application Source Code](https://github.com/deepak15013/PcsmaAssignment4 "Source Code Github")
