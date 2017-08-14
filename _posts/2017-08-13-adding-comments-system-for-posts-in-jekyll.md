@@ -85,5 +85,13 @@ Create your app in facebook developer console. You will get app id for your acco
     <section class="fb-comments" data-href="{{ page.url | absolute_url }}" data-mobile="true" data-num-posts="{{ site.comments.facebook.num_posts | default: 5 }}" data-width="100%" data-colorscheme="{{ site.comments.facebook.colorscheme | default: 'light' }}" data-order-by="{{ site.comments.facebook.order_by | default: 'social' }}"></section>
 ```
 
+## Adding disqus to your jekyll website
+Disqus is a great commenting system as it provides you with a dashboard for all the comments posted and many other analytics beside that.
+
+Adding disqus as your commenting system is fairly straightforward, sign up for disqus, register your website, get your shortname in admin panel > site settings.
+
+Change provider in `_config.yml` to disqus and paste the shortname for your website. And you are done!
+
+
 ### Reference -
  * [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/docs/configuration/)
