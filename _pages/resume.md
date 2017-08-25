@@ -133,9 +133,11 @@ High School - ICSE - Prakash Vidyalaya, Kirandul
   * Runner-up in Sankul Shatriya Vigyan Pradarshan held at KV, Jabalpur in 2010.
   * Active participation in teaching govt. school and help for elderly in Help-Age India.
   * Active participation in yoga campaigns organised by Satyanand Yoga Ashram.
+  * Touch Typing speed - 77 wpm
 
 ## Interests and Hobbies
 
   * Learning new things and technologies
   * Competitive Programming
   * Reading
+  * Touch Typing

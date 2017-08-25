@@ -8,14 +8,14 @@
 # Site Settings
 locale                   : "en_US"
 title                    : "Deepak Sood"
-title_separator          : "|"
+title_separator          : "&#124;"
 name                     : "Deepak Sood"
 description              : "My Personal Website"
 url                      : "https://deepaksood619.github.io"
 baseurl                  : # "/index"
 repository               : "deepaksood619/deepaksood619.github.io"
 teaser                   : "/assets/images/default-th.jpg"
-# breadcrumbs            : false # true, false (default)
+#breadcrumbs              : true # , false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus" #"facebook" # "staticman"

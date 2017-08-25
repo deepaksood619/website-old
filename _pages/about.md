@@ -52,12 +52,19 @@ I love learning new things, therefore I had worked on large set of fields. I lov
 
 I also improve myself everyday, optimizing my work flow in every step of my life. I like things clean and organized. And I am fun to be with :D
 
-## Places I Code
+## Hobbies
+### Competitive Programming
 
-  * HackerRank
-  * HackerEarth
-  * GeeksForGeeks
-  * CodeChef
+  * [HackerRank](https://www.hackerrank.com/deepaksood619)
+  * [HackerEarth](https://www.hackerearth.com/@deepaksood619)
+  * [GeeksForGeeks](http://auth.geeksforgeeks.org/profile.php?user=Deepak%2520Sood&list=practice)
+  * [CodeChef](https://www.codechef.com/users/deepaksood619)
+  * [Leet Code](https://leetcode.com/deepaksood619/)
+
+### Touch Typing
+
+  * [TheTypingCat](https://thetypingcat.com/user/34963)
+  * [RataType](http://www.ratatype.com/c519043)
 
 ## A Look into my life
 {% include gallery  caption="Some photos from my collection" %}
@@ -71,9 +78,7 @@ I also improve myself everyday, optimizing my work flow in every step of my life
     * Brilliant
     * Brain Teaser
     * Enki: Learn better code, daily
-    * Elevate (40 days streak)
+    * Elevate
     * Improve English: Word Games
     * Lumosity
     * Math Workout
-
-
