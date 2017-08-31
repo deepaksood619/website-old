@@ -8,31 +8,41 @@ header:
   overlay_filter: 0.6
 excerpt: "Coder / Researcher / Tech-Evangelist"
 
-intro: 
-  - title: "My Passion as a Coder"
-  - excerpt: "Today i am gonna write a piece of code that will solve a problem and will affect millions of life, is what gets me started for the day."
+thought:
+  - title: "Thought of the day"
+  - excerpt: "It always seems impossible until it's done.<br />**---<cite>Nelson Mandela</cite>**"
+  - url: "/thoughts/2017_thoughts/"
+    btn_label: "More"
+    btn_class: "btn btn--small btn--inverse"
 
-recent_blog:
-  - title: "My recent blog posts"
+all_posts:
+  - url: "/blog/"
+    btn_label: "All Posts"
+    btn_class: "btn btn--small btn--inverse"
 
-recent_portfolio:
-  - title: "My recent projects"
+all_projects:
+    - url: "/portfolio/"
+      btn_label: "All Projects"
+      btn_class: "btn btn--small btn--inverse"
 ---
 
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="thought" type="center" %}
 
-{% include feature_row id="recent_blog" type="center" %}
+<h1><center>My recent blog posts</center></h1>
+<br />
 <div class="grid_wrapper">
   {% for post in site.posts limit:4 %}
     {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>
+{% include feature_row id="all_posts" type="center" %}
 
-{% include feature_row id="recent_portfolio" type="center" %}
-
+<h1><center>My recent projects</center></h1>
+<br />
 <div class="grid_wrapper">
   {% assign items = site.portfolio | sort: 'date' | reverse %}
   {% for post in items limit:4 %}
     {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>
+{% include feature_row id="all_projects" type="center" %}

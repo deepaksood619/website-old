@@ -47,10 +47,15 @@ gallery:
     title: "Thanks Akshay, One of my fav photo"
 ---
 
+## My Passion as a Coder
+"Today i am gonna write a piece of code that will solve a problem and will affect millions of life, is what gets me started for the day."
+
 ## Some things about me
 I love learning new things, therefore I had worked on large set of fields. I love creating new things and find solutions to real life problems. I am passionate to solve problems using novel ideas and iterate quickly on my ideas to optimize it for scalability.
 
-I also improve myself everyday, optimizing my work flow in every step of my life. I like things clean and organized. And I am fun to be with :D
+I also improve myself everyday, optimizing my work flow in every step of my life. I like things clean and organized.
+
+And I am fun to be with :D
 
 ## Hobbies
 ### Competitive Programming
