@@ -11,12 +11,6 @@ header:
 excerpt: ""
 
 date: 01-09-2015
-
-categories:
-  - Thoughts
-
-tags:
-  - Motivational
 ---
 
 It always seems impossible until it's done.
