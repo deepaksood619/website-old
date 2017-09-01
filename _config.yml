@@ -245,6 +245,9 @@ collections:
   thoughts:
     output: true
     permalink: /:collection/:path/
+  til:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -280,5 +283,15 @@ defaults:
       author_profile: false
       read_time: false
       comments: true
-      share: true
+      share: false
+      related: false
+  - scope:
+      path: ""
+      type: til
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: true
+      share: false
       related: false
