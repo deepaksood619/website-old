@@ -1,5 +1,12 @@
 {
-    "name": "",
+    "short_name": "Deepak Sood",
+    "name": "Deepak Sood",
+    "start_url": "/",
+    "theme_color": "#020202",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "orientation": "portrait",
+    "description": "Coder / Researcher / Tech-Evangelist",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -11,8 +18,5 @@
             "sizes": "384x384",
             "type": "image/png"
         }
-    ],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
-    "display": "standalone"
+    ]
 }
