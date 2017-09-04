@@ -11,6 +11,11 @@ header:
 excerpt: ""
 ---
 
+"The moment a man begins to talk about technique that’s proof that he is fresh out of ideas."<br />
+**---<cite>Raymond Chandler</cite>**<br />
+<small>4 Sep, 2017</small>
+{: .notice--info .text-center}
+
 "A pinch of passion with whole lot of discipline, can get you to the top.<br />And vice-versa."<br />
 **---<cite>Anonymous</cite>**<br />
 <small>2 Sep, 2017</small>
