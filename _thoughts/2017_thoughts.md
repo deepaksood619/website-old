@@ -11,6 +11,11 @@ header:
 excerpt: ""
 ---
 
+"You will never find ONE Singleton in a code base, It's always ZERO or TWO or MORE."<br />
+**---<cite>Anonymous</cite>**<br />
+<small>10 Sep, 2017</small>
+{: .notice--info .text-center}
+
 "The moment a man begins to talk about technique that’s proof that he is fresh out of ideas."<br />
 **---<cite>Raymond Chandler</cite>**<br />
 <small>4 Sep, 2017</small>
