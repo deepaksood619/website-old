@@ -11,6 +11,11 @@ header:
 excerpt: ""
 ---
 
+"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."<br />
+**---<cite>John Woods</cite>**<br />
+<small>11 Sep, 2017</small>
+{: .notice--info .text-center}
+
 "You will never find ONE Singleton in a code base, It's always ZERO or TWO or MORE."<br />
 **---<cite>Anonymous</cite>**<br />
 <small>10 Sep, 2017</small>
