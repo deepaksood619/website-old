@@ -71,6 +71,14 @@ And I am fun to be with :D
   * [TheTypingCat](https://thetypingcat.com/user/34963)
   * [RataType](http://www.ratatype.com/c519043)
 
+### Novels
+
+  * The Power of Concentration**---<cite>Theron Q Dumont, 1918</cite>**<br />
+  * The Monk Who Sold His Ferrari**---<cite>Robin Sharma, 1939</cite>**<br />
+  * And Then There Were None **---<cite>Agatha Cristie, 1939</cite>**<br />
+  * Murder on the Orient Express **---<cite>Agatha Cristie, 1934</cite>**<br />
+  * half girlfriend **---<cite>Chetan Bhagat, 2014</cite>**<br />
+
 ## A Look into my life
 {% include gallery  caption="Some photos from my collection" %}
 
