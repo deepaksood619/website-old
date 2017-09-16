@@ -11,6 +11,11 @@ header:
 excerpt: ""
 ---
 
+"I have the power to do and to be whatever I wish to do and be."<br />
+**---<cite>The Power of Concentration</cite>**<br />
+<small>16 Sep, 2017</small>
+{: .notice--info .text-center}
+
 "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."<br />
 **---<cite>John Woods</cite>**<br />
 <small>11 Sep, 2017</small>
