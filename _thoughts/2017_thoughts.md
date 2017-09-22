@@ -11,6 +11,14 @@ header:
 excerpt: ""
 ---
 
+"99 little bugs in the code. <br />
+99 little bugs. <br />
+Take one down, patch it around,<br />
+…127 little bugs in the code."<br />
+**---<cite>Anonymous</cite>**<br />
+<small>22 Sep, 2017</small>
+{: .notice--info .text-center}
+
 "I have the power to do and to be whatever I wish to do and be."<br />
 **---<cite>The Power of Concentration</cite>**<br />
 <small>16 Sep, 2017</small>
