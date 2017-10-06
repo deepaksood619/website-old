@@ -10,8 +10,6 @@ header:
   caption: "Photo by Goran Ivos on Unsplash"
 
 author_profile: false
-comments: false
-share: false
 related: false
 
 categories:
