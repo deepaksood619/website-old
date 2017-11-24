@@ -86,7 +86,7 @@ And I am fun to be with :D
 
   * Manage me
     * AndroMoney
-    * Google Keep
+    * OneNote (Can't live without it)
   * Improve me
     * Brilliant
     * Brain Teaser

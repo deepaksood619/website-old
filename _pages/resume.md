@@ -74,6 +74,7 @@ High School - ICSE - Prakash Vidyalaya, Kirandul
   * Markdown
   * JSON
   * XML
+  * Regular Expressions
 
 ### Frameworks
 
