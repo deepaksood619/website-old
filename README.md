@@ -1,7 +1,7 @@
 # deepaksood619.gihub.io
 My Personal Website
 
-## GitHub Pages Rocks
+[Blog Post on how I built this website](https://deepaksood619.github.io/technology/how-i-created-this-website/)
 
 ### How to build and run
 1. sudo gem install bundler
