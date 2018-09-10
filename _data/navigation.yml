@@ -12,3 +12,9 @@ main:
     url: /blog/
   - title: "CONTACT"
     url: /contact/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
