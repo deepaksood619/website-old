@@ -5,10 +5,19 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+# Theme Settings
+#
+# Review documentation to determine if you should use `theme` or `remote_theme`
+# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
+
+# theme                  : "minimal-mistakes-jekyll"
+# remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 # Site Settings
-locale                   : "en_US"
+locale                   : "en-US"
 title                    : "Deepak Sood"
-title_separator          : "&#124;"
+title_separator          : "-"
 name                     : "Deepak Sood"
 description              : "My Personal Website"
 url                      : "https://deepaksood619.github.io"
@@ -47,11 +56,20 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
-
+search                   : # true, false (default)
+search_full_content      : # true, false (default)
+search_provider          : # lunr (default), algolia, google
+algolia:
+  application_id         : # YOUR_APPLICATION_ID
+  index_name             : # YOUR_INDEX_NAME
+  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
+  powered_by             : # true (default), false
+google:
+  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
+  instant_search         : # false (default), true
 # SEO Related
 google_site_verification :
 bing_site_verification   :
-alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
@@ -71,7 +89,6 @@ social:
     - "https://twitter.com/deepaksood619"
     - "https://www.facebook.com/deepaksood619"
     - "https://www.linkedin.com/in/deepaksood619/"
-    - "https://plus.google.com/u/0/+DeepakSood619"
 
 # Analytics
 analytics:
@@ -87,30 +104,56 @@ author:
   bio              : "Tech-Evangelist"
   location         : "Gurgaon, India"
   email            : "deepaksood619@gmail.com"
-  uri              :
-  bitbucket        :
-  codepen          : "deepaksood619"
-  dribbble         :
-  flickr           :
-  facebook         : "deepaksood619"
-  foursquare       :
-  github           : "deepaksood619"
-  gitlab           :
-  google_plus      : "+DeepakSood619"
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         : "deepaksood619"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : "5424888/deepak-sood"
-  steam            :
-  tumblr           :
-  twitter          : "deepaksood619"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:deepaksood619@gmail.com
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://your-website.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/deepaksood619"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/deepaksood619"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/deepaksood619"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: 
+    - label: "Codepen"
+      icon: "fab fa-fw fa-instagram"
+      url: 
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-instagram"
+      url: 
+    - label: "StackOverflow"
+      icon: "fab fa-fw fa-instagram"
+      url:
+
+# Site Footer
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/deepaksood619"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/deepaksood619"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/deepaksood619"
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      url:
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
+      url:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url:
 
 
 # Reading Files
@@ -180,7 +223,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /blog/page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
