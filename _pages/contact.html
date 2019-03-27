@@ -7,47 +7,29 @@ header:
   overlay_image: /assets/images/contact.jpg
   overlay_filter: 0.6
 excerpt: "Reach out and send a friendly Hello"
+date: 2019-03-27
+last_modified_at: 2019-03-27T23:00:00+05:30
 ---
-<html>
-<head>
-<meta name="referrer" content="origin" />
-<style>
-.container {
-	max-width:500px;
-	width:100%;
-}
-</style>
-</head>
-<body>
 
-<h2>Contact me today</h2>
 If you have any problem that I can help you with, I would love to help
-<br>
-<br>
-<div class="container">
-<form method="POST" action="http://formspree.io/deepaksood619@gmail.com">
-  Full Name*<input type="text" name="fullname" placeholder="" required>
-  Email Address*<input type="email" name="email" placeholder="" required>
-  Your Message*<textarea name="message" rows= "5" placeholder="" required></textarea>
-  <div class="text-center">
-    <button type="submit" class="btn btn--large">Send Message</button>
+
+<form id="form1" name="form1" accept-charset="UTF-8" autocomplete="off" enctype="multipart/form-data" method="post" novalidate action="http://formspree.io/deepaksood619@gmail.com">
+  <div>
+    <label id="title7" for="Field7">Name
+      <input id="Field7" name="Field7" type="text" spellcheck="false" maxlength="255" required placeholder="Your name">
+    </label>
+  </div>
+  <div>
+    <label id="title2" for="Field2">Email address <small>(will remain private)</small>
+      <input id="Field2" name="Field2" type="email" spellcheck="false" maxlength="255" required placeholder="email@address.com">
+    </label>
+  </div>
+  <div>
+    <label id="title1" for="Field1">Message
+      <textarea id="Field1" name="Field1" spellcheck="true" rows="10" cols="50" required></textarea>
+    </label>
+  </div>
+  <div>
+    <button id="saveForm" name="saveForm" class="btn" type="submit">Send message</button>
   </div>
 </form>
-</div>
-
-<h2>My Places</h2>
-
-<table style="width:100%;">
-  <tr>
-    <th style="text-align:center"><u>Office Address</u></th>
-    <th style="text-align:center"><u>Current Address</u></th>
-    <th style="text-align:center"><u>Permanent Address</u></th>
-  </tr>
-  <tr>
-    <td align="center"> Zenatix Solution<br />Plot No. - B-17<br /> First Floor, Sector - 32<br />Gurgaon - 122002<br />Haryana, India</td>
-    <td align="center">Resi-Mart<br />446, Jharsa Rd<br />Jharsa Village, Sector 39<br /> Gurgaon - 122001<br />Haryana, India</td>
-    <td align="center">H.No. - 741<br />Kailash Nagar<br />Dantewada - 494449<br />C.G., India</ti>
-  </tr>
-</table>
-</body>
-</html>
