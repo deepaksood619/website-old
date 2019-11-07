@@ -5,14 +5,14 @@ excerpt: "Used Open Data Kit (ODK) platform for creating, deployment, collection
 date: 01-12-2016
 
 header:
-  teaser: /assets/images/distributed-system-for-health-data-th.jpg
-  overlay_image: /assets/images/distributed-system-for-health-data.jpg
+  teaser: /assets/images/distributed-system-for-health-data-th.webp
+  overlay_image: /assets/images/distributed-system-for-health-data.webp
   overlay_color: "#000"
   overlay_filter: 0.6
 
 sidebar:
   - title: "Role"
-    image: /assets/images/bio-photo.jpg
+    image: /assets/images/bio-photo.webp
     image_alt: "logo"
     text: "Application Development"
   - title: "Responsibilities"

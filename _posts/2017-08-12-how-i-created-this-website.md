@@ -3,7 +3,7 @@ title: "How I Created this Awesome Website"
 excerpt: "Using Jekyll & Github Pages"
 
 header:
-  teaser: /assets/images/my-personal-website-th.jpg
+  teaser: /assets/images/my-personal-website-th.webp
 
 categories:
   - Technology

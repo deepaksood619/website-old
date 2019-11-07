@@ -6,14 +6,14 @@ excerpt: "An extension to the project Sangoshthi, where new features like tutori
 date: 01-08-2017
 
 header:
-  overlay_image: /assets/images/sangoshthi-phase-2.jpg
-  teaser: /assets/images/sangoshthi-phase-2-th.jpg
+  overlay_image: /assets/images/sangoshthi-phase-2.webp
+  teaser: /assets/images/sangoshthi-phase-2-th.webp
   overlay_color: "#000"
   overlay_filter: 0.6
 
 sidebar:
   - title: "Role"
-    image: /assets/images/bio-photo.jpg
+    image: /assets/images/bio-photo.webp
     image_alt: "logo"
     text: "User side Android Application"
   - title: "Responsibilities"

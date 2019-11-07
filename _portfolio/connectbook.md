@@ -6,14 +6,14 @@ excerpt: "A mini social networking site with all social networking functionaliti
 date: 01-07-2016
 
 header:
-  teaser: /assets/images/connectbook-th.jpg
-  overlay_image: /assets/images/connectbook.jpg
+  teaser: /assets/images/connectbook-th.webp
+  overlay_image: /assets/images/connectbook.webp
   overlay_color: "#000"
   overlay_filter: 0.6
 
 sidebar:
   - title: "Role"
-    image: /assets/images/bio-photo.jpg
+    image: /assets/images/bio-photo.webp
     image_alt: "logo"
     text: "Application Development"
   - title: "Project Timeline"

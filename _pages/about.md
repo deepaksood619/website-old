@@ -4,45 +4,45 @@ permalink: /about/
 layout: splash
 header:
   overlay_color: "#000"
-  overlay_image: /assets/images/about.jpg
+  overlay_image: /assets/images/about.webp
   overlay_filter: 0.6
 excerpt: "Get to know me better"
 
 gallery:
-  - url: /assets/images/gallery-image-1.jpg
-    image_path: /assets/images/gallery-image-1-th.jpg
+  - url: /assets/images/gallery-image-1.webp
+    image_path: /assets/images/gallery-image-1-th.webp
     alt: "Some Image of me"
     title: "A Trip to Kasol, 14 km Trek :)"
-  - url: /assets/images/gallery-image-2.jpg
-    image_path: /assets/images/gallery-image-2-th.jpg
+  - url: /assets/images/gallery-image-2.webp
+    image_path: /assets/images/gallery-image-2-th.webp
     alt: "Some Image of me"
     title: "Touching the nature. #Kasol"
-  - url: /assets/images/gallery-image-3.jpg
-    image_path: /assets/images/gallery-image-3-th.jpg
+  - url: /assets/images/gallery-image-3.webp
+    image_path: /assets/images/gallery-image-3-th.webp
     alt: "Some Image of me"
     title: "A Trip to Rishikesh"
-  - url: /assets/images/gallery-image-4.jpg
-    image_path: /assets/images/gallery-image-4-th.jpg
+  - url: /assets/images/gallery-image-4.webp
+    image_path: /assets/images/gallery-image-4-th.webp
     alt: "Some Image of me"
     title: "Some RaNdOm FuN"
-  - url: /assets/images/gallery-image-5.jpg
-    image_path: /assets/images/gallery-image-5-th.jpg
+  - url: /assets/images/gallery-image-5.webp
+    image_path: /assets/images/gallery-image-5-th.webp
     alt: "Some Image of me"
     title: "Sister's Marriage"
-  - url: /assets/images/gallery-image-6.jpg
-    image_path: /assets/images/gallery-image-6-th.jpg
+  - url: /assets/images/gallery-image-6.webp
+    image_path: /assets/images/gallery-image-6-th.webp
     alt: "Some Image of me"
     title: "#CandidPhotoShoot"
-  - url: /assets/images/gallery-image-7.jpg
-    image_path: /assets/images/gallery-image-7-th.jpg
+  - url: /assets/images/gallery-image-7.webp
+    image_path: /assets/images/gallery-image-7-th.webp
     alt: "Some Image of me"
     title: "Some tech to record #BrainWaves"
-  - url: /assets/images/gallery-image-8.jpg
-    image_path: /assets/images/gallery-image-8-th.jpg
+  - url: /assets/images/gallery-image-8.webp
+    image_path: /assets/images/gallery-image-8-th.webp
     alt: "Some Image of me"
     title: "Mumbai Diaries"
-  - url: /assets/images/gallery-image-9.jpg
-    image_path: /assets/images/gallery-image-9-th.jpg
+  - url: /assets/images/gallery-image-9.webp
+    image_path: /assets/images/gallery-image-9-th.webp
     alt: "Some Image of me"
     title: "Thanks Akshay, One of my fav photo"
 ---

@@ -6,11 +6,11 @@ date: 10-08-2017
 excerpt: "Using Jekyll and Github Pages I created my personal website from scratch, Its an ongoing project and features will be added soon"
 
 header:
-  teaser: /assets/images/my-personal-website-th.jpg
+  teaser: /assets/images/my-personal-website-th.webp
 
 sidebar:
   - title: "Technologies"
-    image: /assets/images/bio-photo.jpg
+    image: /assets/images/bio-photo.webp
     image-alt: "logo"
     text: "Jekyll, Github Pages, Markdown"
 

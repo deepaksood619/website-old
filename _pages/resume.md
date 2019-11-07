@@ -4,7 +4,7 @@ permalink: /resume/
 layout: splash
 header:
   overlay_color: "#000"
-  overlay_image: /assets/images/resume.jpg
+  overlay_image: /assets/images/resume.webp
   overlay_filter: 0.6
   cta_label: "Download Resume"
   cta_url: "/assets/deepak-sood-resume.pdf"

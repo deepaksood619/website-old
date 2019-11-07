@@ -3,8 +3,8 @@ title: IIITD - College that Teaches you How to Study
 excerpt: College that teaches you how to study by yourself and keep up to date in an ever-changing Technological field.
 
 header:
-  teaser: /assets/images/blog/iiitd-th.jpg
-  overlay_image: /assets/images/blog/iiitd.jpg
+  teaser: /assets/images/blog/iiitd-th.webp
+  overlay_image: /assets/images/blog/iiitd.webp
   overlay_color: "#000"
   overlay_filter: 0.6
 

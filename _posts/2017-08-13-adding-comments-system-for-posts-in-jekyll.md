@@ -3,8 +3,8 @@ title: "Adding comments system in your jekyll and github pages"
 excerpt: "Adding comment system like facebook, disqus or staticman"
 
 header:
-  teaser: /assets/images/blog/staticman-th.jpg
-  overlay_image: /assets/images/blog/staticman.jpg
+  teaser: /assets/images/blog/staticman-th.webp
+  overlay_image: /assets/images/blog/staticman.webp
   overlay_color: "#000"
   overlay_filter: 0.6
 

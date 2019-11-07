@@ -5,14 +5,14 @@ excerpt: "Created an Android application framework to collect all the stats and 
 date: 01-11-2016
 
 header:
-  teaser: /assets/images/user-study-framework-th.jpg
-  overlay_image: /assets/images/user-study-framework.jpg
+  teaser: /assets/images/user-study-framework-th.webp
+  overlay_image: /assets/images/user-study-framework.webp
   overlay_color: "#000"
   overlay_filter: 0.6
 
 sidebar:
   - title: "Role"
-    image: /assets/images/bio-photo.jpg
+    image: /assets/images/bio-photo.webp
     image_alt: "logo"
     text: "User Side Android Application"
   - title: "Responsibilities"

@@ -3,8 +3,8 @@ title: The Perfect Life
 excerpt: What all software developers want, Toptal gives it to you.
 
 header:
-  teaser: /assets/images/blog/toptal-th.jpg
-  overlay_image: /assets/images/blog/toptal.jpg
+  teaser: /assets/images/blog/toptal-th.webp
+  overlay_image: /assets/images/blog/toptal.webp
   overlay_color: "#000"
   overlay_filter: 0.6
   caption: "Photo by Goran Ivos on Unsplash"

@@ -8,5 +8,5 @@ date: 24-10-2017
 link: https://github.com/deepaksood619/JavaScriptTicTacToe
 
 header:
-  teaser: /assets/images/tic-tac-toe-th.jpeg
+  teaser: /assets/images/tic-tac-toe-th.webp
 ---

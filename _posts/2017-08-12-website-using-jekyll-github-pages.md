@@ -3,8 +3,8 @@ title: "Why I chose to build website using Jekyll & Github Pages"
 excerpt: "Just Works!"
 
 header:
-  teaser: /assets/images/website-using-jekyll-github-pages-th.jpg
-  overlay_image: /assets/images/website-using-jekyll-github-pages.jpg
+  teaser: /assets/images/website-using-jekyll-github-pages-th.webp
+  overlay_image: /assets/images/website-using-jekyll-github-pages.webp
   overlay_color: "#000"
   overlay_filter: 0.7
 

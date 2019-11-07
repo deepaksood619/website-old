@@ -24,7 +24,7 @@ description              : "My Personal Website"
 url                      : "https://deepaksood619.github.io"
 baseurl                  : # "/index"
 repository               : "deepaksood619/deepaksood619.github.io"
-teaser                   : "/assets/images/default-th.jpg"
+teaser                   : "/assets/images/default-th.webp"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -89,7 +89,7 @@ facebook:
   username               : "deepaksood619"
   app_id                 : 1402750756469783
   publisher              : "https://www.facebook.com/deepaksood619"
-og_image                 : "/assets/images/default.jpg"
+og_image                 : "/assets/images/default.webp"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -110,7 +110,7 @@ analytics:
 # Site Author
 author:
   name             : "Deepak Sood"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.webp"
   bio              : "Tech-Evangelist"
   location         : "Gurgaon, India"
   email            : "deepaksood619@gmail.com"

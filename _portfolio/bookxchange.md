@@ -5,14 +5,14 @@ excerpt: "App for adding location stamped books for exchanging it with other use
 date: 03-06-2016
 
 header:
-  teaser: /assets/images/bookxchange-th.jpg
-  overlay_image: /assets/images/bookxchange.jpg
+  teaser: /assets/images/bookxchange-th.webp
+  overlay_image: /assets/images/bookxchange.webp
   overlay_color: "#000"
   overlay_filter: 0.6
 
 sidebar:
   - title: "Role"
-    image: /assets/images/bio-photo.jpg
+    image: /assets/images/bio-photo.webp
     image_alt: "logo"
     text: "Android Application Development"
   - title: "Project Timeline"
