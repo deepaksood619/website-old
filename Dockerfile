@@ -3,7 +3,7 @@ FROM ruby:2.6.5
 WORKDIR /root/src
 
 COPY Gemfile ./
-RUN bundle install
+RUN bundle
 
 COPY . .
 

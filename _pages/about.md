@@ -79,8 +79,8 @@ And I am fun to be with :D
   * Murder on the Orient Express **---<cite>Agatha Cristie, 1934</cite>**<br />
   * half girlfriend **---<cite>Chetan Bhagat, 2014</cite>**<br />
 
-## A Look into my life
-{% include gallery  caption="Some photos from my collection" %}
+<!-- ## A Look into my life
+{% include gallery  caption="Some photos from my collection" %} -->
 
 ## Apps that keep me organized and my brain sharp
 
