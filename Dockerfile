@@ -1,8 +1,8 @@
-FROM ruby:2.6.4
+FROM ruby:2.6.5
 
 WORKDIR /root/src
 
-COPY Gemfile minimal-mistakes-jekyll.gemspec ./
+COPY Gemfile ./
 RUN bundle install
 
 COPY . .
