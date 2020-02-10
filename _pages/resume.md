@@ -90,8 +90,9 @@ High School - ICSE - Prakash Vidyalaya, Kirandul
   * Team leader for group in Bharat Scouts and Guides held at National Adventure Institute, Pachmarhi. ---<cite> Apr' 10 - Apr' 10</cite>
 
 ## Awards and Achievements
-
+  * Project Sangoshthi was awarded 100000 USD from Bill & Melinda Gates Foundation
   * Winner of Bio-Bytes contest using Bio-Python for protein Sequencing, held at IIIT, Delhi in Nov, 16.
+  * Completed Kangra X-country Run 32KM in 3:23:36
   * Scholarship by Tata Trust and Google for Udacity Android Nanodegree Course in Jan, 16.
   * Winner of state level Autonomous Robotics Competition, held at SSITM, Bhilai in March,13.
   * Runner-up of Quiz competition held at RCET, Bhilai in August, 2012.
