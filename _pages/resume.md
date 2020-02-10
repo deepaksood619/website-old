@@ -21,14 +21,32 @@ Publication date - Apr 7, 2017
 
 ## Professional Experience
 
-Associate Technology - Zenatix Solution, Gurgaon ---<cite> Aug' 17 - Present</cite>
-:	Working on Wattman Lite. Android development on client side and django on server side
+Senior Data Engineer - AIML Analytics (OpenDataFabric), Delhi ---<cite> Feb' 20 - Present</cite>
+: Working on credit engine, ETL
+
+Associate Technology - Zenatix Solution, Gurgaon ---<cite> Aug' 17 - Jan' 20</cite>
+:	**Core Infrastructure**<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;Centralized logging infrastructure using Elasticsearch, Kibana, Fluentbit<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;Centralized metrics monitoring infrastructure using Prometheus, Influx, Grafana, Telegraf, Alertmanager<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;Added Kong API Gateway for ingress traffic resulting in only single use of static IP for all public access<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;Moved cronjobs to Airflow job orchestrator which resulted in 50% decrease in report generation time<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;Ported all services to Kubernetes reducing cloud bill by 70%<br/>
+  **Business Logic**<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;Added MQTT Broker, Kafka Broker and Druid for data pipeline<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;Implemented GraphQL as the default communication protocol between microservices<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;Migrated from monolithic architecture to microservices architecture<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;Documentation, code cleanups and package upgrades resulting in faster development time<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;Managed a team of 3 people increasing performance by coaching and tech sessions<br/>
+
 
 Software Developer - CISO Cybersecurity, Gurgaon ---<cite> Dec' 16 - Aug' 17</cite>
-:	Working on product development team on Image Processing and Live Video Streaming. Languages used: Java, Python.
+:	Implemented face detection using Viola-Jones Algorithm, corner detection using fixed points, Live Video Streaming using ffmpeg with scripting in python and product development using Java, Spring and Java-FX
+: Stack: MySQL, Redis, Java, Spring, Python, REST
+
 
 Teaching Assitant - Indraprastha Institute of Information Technology, Delhi ---<cite> Aug' 15 - Dec' 16</cite>
-:	Teaching Assistant for following subjects - Network Security, Computer Networks, Mobile Computing
+: Published paper on project Sangoshthi: https://doi.org/10.1145/3038912.3052624
+: Courses: Network Security, Computer Networks, Mobile Computing
 
 Intern - NMDC Limited, Bacheli ---<cite> June' 14 - July' 14</cite>
 :	Study of “Smart Card Technology for Healthcare and other Services” for general public by which all the data can be centrally handled and maintained.
@@ -40,7 +58,7 @@ Intern - Verve Technologies, Bhilai ---<cite> June' 13 - July' 13</cite>
 
 MTech - CSE - Indraprastha Institute of Information Technology, Delhi
 :	2015 - 2017
-:	CGPA - 7.9
+:	CGPA - 8.0
 
 BE - CSE - Shri Shankaracharya Institute of Technology and Management, Bhilai
 :	2011 - 2015
@@ -55,67 +73,13 @@ High School - ICSE - Prakash Vidyalaya, Kirandul
 :	Percent - 76.14
 
 ## Skills
-
-### Languages
-
-  * Java
-  * Python
-  * JavaScript
-  * C++
-  * C
-  * SQL
-  * BashScript
-
-### Markup Languages
-   
-  * HTML5
-  * CSS3
-  * Sass
-  * Markdown
-  * JSON
-  * XML
-  * Regular Expressions
-
-### Frameworks
-
-  * CSS Frameworks
-    * Twitter Bootstrap
-    * Foundation4
-    * MaterializeCSS
-  * Django
-  * AngularJS
-  * Spring
-
-### Tools and Technologies
-
-  * Android Development
-  * FFMPEG
-  * Version Control Systems
-    * Git
-      * GitHub
-      * BitBucket
-      * GitLab
-    * Apache Subversion
-  * Build Systems
-    * Gradle
-    * Maven
-  * CMS
-    * Wordpress
-    * Jekyll
-  * Web Servers
-    * Apache Tomcat
-    * Nginx
-  * IDE's
-    * Android Studio
-    * Eclipse
-    * Intellij Idea
-    * Pycharm
-    * Webstorm
-    * Visual Studio Code
-    * Atom
-    * vi
-    * vim
-    * nano
+  - <strong>Languages -</strong> Java, Python, JavaScript, C++, C, SQL, PHP, BashScript, Regular Expressions
+  - <strong>Markup Languages -</strong> HTML5, CSS3, Sass, Markdown, JSON, XML, YAML, GraphQL
+  - <strong>Frameworks -</strong> Django, Flask, Angular, Spring, React, CodeIgnitor, Spring, Android
+  - <strong>Tools -</strong> Kubernetes, Docker, Git, Jenkins, Ansible, Terraform, Helm
+  - <strong>Technologies -</strong> Kafka, MQTT Brokers, Elasticsearch, Prometheus, TICK Stack, Airflow, Kong, Istio
+  - <strong>Databases -</strong> Postgres, MySQL, InfluxDB, MongoDB, Redis, Cassandra, Druid
+  - <strong>Others -</strong> Distributed Systems, Data Structures, Algorithms, Networking, AWS, Google Cloud, Azure
 
 ## Positions of Responsibility
 
