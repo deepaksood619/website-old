@@ -5,13 +5,13 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    image: deepaksood619/deepaksood619:1.0.0
+    image: deepaksood619/deepaksood619:1.0.1
 
   website:
     stdin_open: true
     tty: true
     restart: always
-    image: deepaksood619/deepaksood619:1.0.0
+    image: deepaksood619/deepaksood619:1.0.1
     container_name: website
     working_dir: /root/src
     entrypoint:

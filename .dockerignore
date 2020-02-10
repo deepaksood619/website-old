@@ -17,3 +17,7 @@ npm-debug.log*
 # ides
 .idea/*
 .vscode/*
+.history/*
+
+# git
+.git

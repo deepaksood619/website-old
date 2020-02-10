@@ -18,3 +18,8 @@ Go to http://localhost:4000/
 3. bundle exec jekyll serve
 
 Go to http://localhost:4000/
+
+#### Updating
+https://mmistakes.github.io/minimal-mistakes/docs/upgrading/#update-files-manually
+
+Replace all files that are given in above link
