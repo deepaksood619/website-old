@@ -43,23 +43,9 @@ comments:
   utterances:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
-staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "master"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : false
-  path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
-  transforms:
-    email                : "md5"
-  generatedFields:
-    date:
-      type               : "date"
-      options:
-        format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-  endpoint               : # URL of your own deployment with trailing slash, will fallback to the public instance
+  staticman:
+    branch               : # "master"
+    endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
 reCaptcha:
   siteKey                :
   secret                 :
@@ -105,6 +91,7 @@ analytics:
   provider               : "google-universal"
   google:
     tracking_id          : "UA-104480301-1"
+    anonymize_ip         : # true, false (default)
 
 
 # Site Author
@@ -120,7 +107,10 @@ author:
       url: mailto:deepaksood619@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://your-website.com"
+      url: "https://deepaksood619.github.io/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/deepaksood619"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/deepaksood619"
@@ -132,20 +122,14 @@ author:
       url: "https://github.com/deepaksood619"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url:
-    - label: "Codepen"
-      icon: "fab fa-fw fa-instagram"
-      url:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-instagram"
-      url:
-    - label: "StackOverflow"
-      icon: "fab fa-fw fa-instagram"
-      url:
+      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/deepaksood619"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/deepaksood619"

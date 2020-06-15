@@ -10,7 +10,7 @@ services:
   website:
     stdin_open: true
     tty: true
-    restart: always
+    restart: "no"
     image: deepaksood619/deepaksood619:1.0.1
     container_name: website
     working_dir: /root/src
