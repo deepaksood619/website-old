@@ -23,3 +23,15 @@ Go to http://localhost:4000/
 https://mmistakes.github.io/minimal-mistakes/docs/upgrading/#update-files-manually
 
 Replace all files that are given in above link
+
+### Firebase hosting
+```bash
+firebase init
+
+What do you want to use as your public directory? _site
+Configure as a single-page app? No
+File _site/404.html already exists. Overwrite? No
+File _site/index.html already exists. Overwrite? No
+
+firebase deploy
+```
