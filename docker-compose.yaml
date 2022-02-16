@@ -1,16 +1,13 @@
 version: '3.7'
 
 services:
-  build-service:
-    build:
-      context: .
-      dockerfile: Dockerfile
-    image: deepaksood619/deepaksood619:1.0.1
-
   website:
     stdin_open: true
     tty: true
     restart: "no"
+    build:
+      context: .
+      dockerfile: Dockerfile
     image: deepaksood619/deepaksood619:1.0.1
     container_name: website
     working_dir: /root/src
@@ -19,6 +16,7 @@ services:
       - -c
       - |
         bundle exec jekyll serve --host 0.0.0.0
+        # sleep infinity
     ports:
       - 4000:4000
     volumes:
