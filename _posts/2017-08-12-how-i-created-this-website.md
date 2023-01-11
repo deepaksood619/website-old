@@ -21,7 +21,7 @@ tags:
   3. Focus
   4. and ya github account too.
 
-Why I chose Jekyll & Github pages. Its a preety long awesome story. Find it here - [Why I chose jekyll & Github pages](https://deepaksood619.github.io/technology/website-using-jekyll-github-pages/)
+Why I chose Jekyll & Github pages. Its a preety long awesome story. Find it here - [Why I chose jekyll & Github pages](https://deepaksood619-e5c24.web.app/technology/website-using-jekyll-github-pages/)
 
 Read more about [Jekyll](https://jekyllrb.com/) & [Github pages](https://pages.github.com/)
 

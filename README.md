@@ -1,7 +1,7 @@
 # deepaksood619.gihub.io
 My Personal Website
 
-[Blog Post on how I built this website](https://deepaksood619.github.io/technology/how-i-created-this-website/)
+[Blog Post on how I built this website](https://deepaksood619-e5c24.web.app/technology/how-i-created-this-website/)
 
 ### How to run using docker
 ```

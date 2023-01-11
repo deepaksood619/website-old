@@ -31,7 +31,7 @@ Also it will then push the comment to website repository and save it in `_data` 
 
 ## Steps for integrating Staticman comments in jekyll
  1. Allow Staticman push access to your GitHub repository by clicking on **Settings**, then the **Collaborators** tab and adding `staticmanapp` as a collaborator.
- 2. To accept the pending invitation visit: `https://api.staticman.net/v1/connect/{your GitHub username}/{your repository name}`. Example `https://api.staticman.net/v1/connect/deepaksood619/deepaksood619.github.io`
+ 2. To accept the pending invitation visit: `https://api.staticman.net/v1/connect/{your GitHub username}/{your repository name}`. Example `https://api.staticman.net/v1/connect/deepaksood619/website-old`
  3. Some changes to `_config.yml` file-
    * add comments provider as staticman
    ```yaml
